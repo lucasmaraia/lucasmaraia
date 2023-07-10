@@ -13,7 +13,7 @@
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sql&logoColor=purple&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sql&logoColor=purple&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-mongo-0D1117?style=for-the-badge&logo=mongo&logoColor=purple&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
